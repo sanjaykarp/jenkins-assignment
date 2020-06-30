@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1593535368,,"wq"
+|2,0,1593536277,,"wq"
 :q!
 |2,0,1593535352,,"q!"
 
@@ -27,20 +27,34 @@
 # Registers:
 
 # File marks:
-'0  1  24  ~/sanjay.yml
-|4,48,1,24,1593535368,"~/sanjay.yml"
-'1  7  0  ~/index.html
-|4,49,7,0,1593535352,"~/index.html"
-'2  1  17  ~/sanjay.yml
-|4,50,1,17,1593534492,"~/sanjay.yml"
+'0  1  28  ~/sanjay.yml
+|4,48,1,28,1593536277,"~/sanjay.yml"
+'1  1  24  ~/sanjay.yml
+|4,49,1,24,1593535368,"~/sanjay.yml"
+'2  7  0  ~/index.html
+|4,50,7,0,1593535352,"~/index.html"
+'3  1  17  ~/sanjay.yml
+|4,51,1,17,1593534492,"~/sanjay.yml"
+'4  1  17  ~/sanjay.yml
+|4,52,1,17,1593534492,"~/sanjay.yml"
 
 # Jumplist (newest first):
+-'  1  28  ~/sanjay.yml
+|4,39,1,28,1593536277,"~/sanjay.yml"
 -'  1  24  ~/sanjay.yml
 |4,39,1,24,1593535368,"~/sanjay.yml"
 -'  7  0  ~/index.html
 |4,39,7,0,1593535352,"~/index.html"
 -'  7  0  ~/index.html
 |4,39,7,0,1593535352,"~/index.html"
+-'  7  0  ~/index.html
+|4,39,7,0,1593535352,"~/index.html"
+-'  7  0  ~/index.html
+|4,39,7,0,1593535352,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1593535305,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1593535305,"~/index.html"
 -'  1  0  ~/index.html
 |4,39,1,0,1593535305,"~/index.html"
 -'  1  0  ~/index.html
@@ -53,11 +67,11 @@
 # History of marks within files (newest to oldest):
 
 > ~/sanjay.yml
-	*	1593535367	0
-	"	1	24
-	^	1	25
-	.	1	24
-	+	1	24
+	*	1593536275	0
+	"	1	28
+	^	1	29
+	.	1	28
+	+	1	28
 
 > ~/index.html
 	*	1593535350	0
