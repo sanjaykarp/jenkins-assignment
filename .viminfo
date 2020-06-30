@@ -12,9 +12,13 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
+<<<<<<< HEAD
 |2,0,1593536277,,"wq"
 :q!
 |2,0,1593535352,,"q!"
+=======
+|2,0,1593540317,,"wq"
+>>>>>>> develop
 
 # Search String History (newest to oldest):
 
@@ -27,6 +31,7 @@
 # Registers:
 
 # File marks:
+<<<<<<< HEAD
 '0  1  28  ~/sanjay.yml
 |4,48,1,28,1593536277,"~/sanjay.yml"
 '1  1  24  ~/sanjay.yml
@@ -80,3 +85,22 @@
 	.	6	46
 	+	8	7
 	+	6	46
+=======
+'0  2  18  ~/Dockerfile
+|4,48,2,18,1593540317,"~/Dockerfile"
+
+# Jumplist (newest first):
+-'  2  18  ~/Dockerfile
+|4,39,2,18,1593540317,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1593540230,"~/Dockerfile"
+
+# History of marks within files (newest to oldest):
+
+> ~/Dockerfile
+	*	1593540314	0
+	"	2	18
+	^	2	19
+	.	2	18
+	+	2	18
+>>>>>>> develop
